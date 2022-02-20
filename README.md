@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me how to break your ML model to classify images correctly
 - 📫 How to reach me: LinkedIn is fine
-- ⚡ Fun fact: I wrote my first program at 12 on USSR programmin calculator MK-61. It was a number guesser.
+- ⚡ Fun fact: I wrote my first program at 12 on USSR programming calculator [MK-61](https://en.wikipedia.org/wiki/Elektronika_MK-61). It was a number guesser.
 
 ![Andrei's github stats](https://github-readme-stats.vercel.app/api?username=lapaniku&show_icons=true&theme=radical)
 
