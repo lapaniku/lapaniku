@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on as ML Engineer
 - 🌱 I’m currently learning Adversarial ML, GANs, MLOps
 - 👯 I’m looking to collaborate on Adversarial ML
-- 🤔 I’m looking for help with ...
 - 💬 Ask me how to break your ML model to classify images correctly
 - 📫 How to reach me: LinkedIn is fine
 - ⚡ Fun fact: I wrote my first program at 12 on USSR programming calculator [MK-61](https://en.wikipedia.org/wiki/Elektronika_MK-61). It was a number guesser.
